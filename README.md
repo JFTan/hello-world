@@ -1,3 +1,3 @@
 # hello-world
 First repository
-Steep
+This should be fun!
